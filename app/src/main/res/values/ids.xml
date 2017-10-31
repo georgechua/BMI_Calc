@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTextWeight" type="id">Weight</item>
+    <item name="editTextHeight" type="id">Height</item>
+    <item name="ImageViewResult" type="id">View</item>
+    <item name="textViewResult" type="id">viewresult</item>
+</resources>

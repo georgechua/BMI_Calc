@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="input_weight">Weight</string>
+    <string name="input_height">Height</string>
+    <string name="input_cal">Calculate</string>
+    <string name="input_reset">Reset</string>
+    <string name="bmi">BMI</string>
+    <string name="under">Underweight</string>
+    <string name="normal">Normal weight</string>
+    <string name="over">Overweight</string>
+</resources>
